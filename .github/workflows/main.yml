@@ -25,4 +25,4 @@ jobs:
 
     - name: Run translation script
       run: |
-        python path/to/your/script.py
+        python SwarAnuvad/__init__.py
